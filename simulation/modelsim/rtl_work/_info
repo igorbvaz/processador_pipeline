@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/QuartusLite/PCID/processador_pipeline/simulation/modelsim
+vula
+!s110 1545265303
+!i10b 1
+!s100 :aSKR;E=fg8g>]dl@>ETz2
+IkYiN6LnUOl9FK5R`FSZ`P2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1545264248
+8F:/QuartusLite/PCID/processador_pipeline/ula.v
+FF:/QuartusLite/PCID/processador_pipeline/ula.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1545265303.000000
+!s107 F:/QuartusLite/PCID/processador_pipeline/ula.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/QuartusLite/PCID/processador_pipeline|F:/QuartusLite/PCID/processador_pipeline/ula.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+F:/QuartusLite/PCID/processador_pipeline
+tCvgOpt 0
